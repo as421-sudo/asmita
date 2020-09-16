@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/asmita/static/css/main.61d9c25d.chunk.css",
+    "main.js": "/asmita/static/js/main.1176d868.chunk.js",
+    "main.js.map": "/asmita/static/js/main.1176d868.chunk.js.map",
+    "runtime-main.js": "/asmita/static/js/runtime-main.14650ae1.js",
+    "runtime-main.js.map": "/asmita/static/js/runtime-main.14650ae1.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/asmita/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.4522386f.chunk.js": "/asmita/static/js/2.4522386f.chunk.js",
+    "static/js/2.4522386f.chunk.js.map": "/asmita/static/js/2.4522386f.chunk.js.map",
+    "index.html": "/asmita/index.html",
+    "precache-manifest.670b85e774b973a7480f21973c13c73e.js": "/asmita/precache-manifest.670b85e774b973a7480f21973c13c73e.js",
+    "service-worker.js": "/asmita/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/asmita/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.61d9c25d.chunk.css.map": "/asmita/static/css/main.61d9c25d.chunk.css.map",
+    "static/js/2.4522386f.chunk.js.LICENSE.txt": "/asmita/static/js/2.4522386f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14650ae1.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.4522386f.chunk.js",
+    "static/css/main.61d9c25d.chunk.css",
+    "static/js/main.1176d868.chunk.js"
+  ]
+}
