@@ -46,7 +46,7 @@ function App(){
   <p className="text-white text-center"><span class="glyphicon glyphicon-facebook bg-white"></span>www.facebook.com/cripumps</p>
   </div>
   <div className="col-sm-4 responsive">
-  <p className="text-white text-center"><span class="glyphicon glyphicon-globe bg-white"></span>www.crigroups.com</p>
+  <p className="text-white text-center"><span class="glyphicon glyphicon-glob bg-white"></span>www.crigroups.com</p>
   </div>
   </div>
     </div>
