@@ -28,7 +28,7 @@ function App(){
 </div>
 <p className="font-weight-bold mt-4 text-center">INSTALLED OVER 10 LAKHS STAR RATED PUMPSETS ACROSS THE COUNTRY RESULTING IN A CUMULATIVE SAVING OF MORE THAN 9,000 MILLION UNITS OF POWER FOR THE NATION.</p>
 <div>
-  <img src={process.env.PUBLIC_URL+"images/3.png"} alt="mypic" width="1000px" height="300px" className="img-fluid" />
+  <img src={process.env.PUBLIC_URL+"/images/3.png"} alt="mypic" width="1000px" height="300px" className="img-fluid" />
   <p className="text-center font-weight-bold">Valves-Pumps-Pipes-IoT Drives & Controllers-Wires & Cables-Solar Systems-Motors </p>
 </div>
 <hr className="style-one"></hr>
