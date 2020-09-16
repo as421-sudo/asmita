@@ -11,7 +11,7 @@ function App(){
 </div>
 <div className="row">
 <div className="col-md-4">
-<img src={process.env.PUBLIC_URL+"images/1.png"} alt="mypic" width="450px" height="100px" className="img-fluid" />
+<img src={process.env.PUBLIC_URL+"/images/1.png"} alt="mypic" width="450px" height="100px" className="img-fluid" />
 </div>
 <div className="col-md-8">
 <p className="font-weight-bold">C.R.I. PUMPS WINS THE NATIONAL ENERGY CONSERVATION AWARD 2018 for the 4th time. </p>
@@ -21,14 +21,14 @@ function App(){
   <li className="font-weight-bold">C.R.I.is the highest contributor in the country for the projects of EESL(Energy Efficiency Services Limited)
   to replace the old inefficient pumps with 5 Star rated energy efficient smart pumps with Iot enabled control panel.</li>
 </ul>
-<img src={process.env.PUBLIC_URL+"images/2.png"} alt="mypic" width="600px"  className="img-fluid" />
+<img src={process.env.PUBLIC_URL+"/images/2.png"} alt="mypic" width="600px"  className="img-fluid" />
 <p className="font-weight-bolder">Government of India has awarded the <b>National Energy Conservation Award 2018"</b> Mr.G. selvaraj,Joint Managing Director of C.R.I Group received the award from Smt.Sumitra Mahajan,
  Speaker of Look Sabha & Shri. Raj Kumar Singh,Honorable Minister of state.</p>
 </div>
 </div>
 <p className="font-weight-bold mt-4 text-center">INSTALLED OVER 10 LAKHS STAR RATED PUMPSETS ACROSS THE COUNTRY RESULTING IN A CUMULATIVE SAVING OF MORE THAN 9,000 MILLION UNITS OF POWER FOR THE NATION.</p>
 <div>
-  <img src={process.env.PUBLIC_URL+"images/3.png"} alt="mypic" width="1000px" height="300px" className="img-fluid" />
+  <img src={process.env.PUBLIC_URL+"/images/3.png"} alt="mypic" width="1000px" height="300px" className="img-fluid" />
   <p className="text-center font-weight-bold">Valves-Pumps-Pipes-IoT Drives & Controllers-Wires & Cables-Solar Systems-Motors </p>
 </div>
 <hr className="style-one"></hr>
