@@ -7,7 +7,7 @@ function App(){
 <>
 <div className="container">
 <div className="header">
-  <img src={process.env.PUBLIC_URL+"/images/logo.png"} alt="hello" className="mx-auto d-block img-fluid" height="200px" width="200px" />
+  <img src={process.env.PUBLIC_URL+"/image/logo.png"} alt="hello" className="mx-auto d-block img-fluid" height="200px" width="200px" />
 </div>
 <div className="row">
 <div className="col-md-4">
